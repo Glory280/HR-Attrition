@@ -20,6 +20,7 @@ Turnover Analysis II report consolidates employee data featuring employee attrit
 Employee Wellness report provides insights into employee data featuring employee attrition by environmental satisfaction, relationship satisfaction, job satisfaction, job involvement, performance rating and work life balance.
 
 ## Approach Used
+Every approaches used in the analysis of this project was carried out in Power BI. The methods are as follows;
 ### Data Wrangling
 This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values. It involves the following steps;
 - Data loading and inspection
